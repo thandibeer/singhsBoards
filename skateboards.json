@@ -1,0 +1,477 @@
+[
+    {
+        "featured": true,
+        "name": "Reaper Sweater Pattern First Push - Classic",
+        "color": "Black",
+        "price": 99.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b2_1.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "First Push Stamp OG Green - Premium",
+        "color": "torquoise",
+        "price": 122.99,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5,
+            9
+        ],
+        "images": [
+            "b1_1.jpg",
+            "b1_2.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+    },
+    {
+        "featured": true,
+        "name": "First Push Reaper Sweater Pattern JR",
+        "color": "white",
+        "price": 110.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5,
+            9
+        ],
+        "images": [
+            "b6.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+    },
+    {
+        "featured": true,
+        "name": "OG Ripped First Push",
+        "color": "Blue",
+        "price": 110.99,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b3.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+    },
+    {
+        "featured": false,
+        "name": "OG Ripped First Push - Artistic",
+        "color": "Blue",
+        "price": 99.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b4.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "First Push Reaper Glitch - Purple",
+        "color": "purple",
+        "price": 92.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b5.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": true,
+        "name": "Doesn't Fit First Push",
+        "color": "Blue",
+        "price": 94.99,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b7_1.jpg",
+            "b7_2.jpg"
+        ],
+        "brand": "ENJOI",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": true,
+        "name": "Peace Out First Push JR",
+        "color": "Blue",
+        "price": 113.45,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b10.jpg"
+        ],
+        "brand": "ALMOST",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Darksatr FP Slap complete",
+        "color": "Blue",
+        "price": 99.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b11.jpg"
+        ],
+        "brand": "DARKSTAR",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Fracture First Push Premium",
+        "color": "Blue",
+        "price": 100.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b12_1.jpg",
+            "b12_2.jpg"
+        ],
+        "brand": "DARKSTAR",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Pfanner Rude Bwoys Mini Series",
+        "color": "Blue",
+        "price": 104.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b13.jpg"
+        ],
+        "brand": "ANTI-HERO",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    }
+    
+    ,
+    {
+        "featured": false,
+        "name": "First Push Top Big Head",
+        "color": "Blue",
+        "price": 88.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b14.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Almost x Ren & Stimpy Resin Premium Boxed",
+        "color": "Blue",
+        "price": 130.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b15.jpg"
+        ],
+        "brand": "ALMOST",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "FP Half And Half Orange 8 Complete",
+        "color": "Blue",
+        "price": 96.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b16.jpg"
+        ],
+        "brand": "ANTI-HERO",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "First Push Soft Wheel Reflectiv",
+        "color": "Blue",
+        "price": 92.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b17.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "First Push Reaper Character Grenade",
+        "color": "Blue",
+        "price": 92.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b18.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Element x Star Wars Tie Fighter",
+        "color": "Blue",
+        "price": 134.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b19.jpg"
+        ],
+        "brand": "ELEMENT",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Erosion Mini",
+        "color": "Blue",
+        "price": 132.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b20.jpg"
+        ],
+        "brand": "CREATURE",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Slab DIY Full",
+        "color": "Blue",
+        "price": 132.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b21.jpg"
+        ],
+        "brand": "CREATURE",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Reaper Wallpaper First Push ",
+        "color": "Blue",
+        "price": 88.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b22.jpg"
+        ],
+        "brand": "BLIND",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Timeworks First Push",
+        "color": "Blue",
+        "price": 92.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b23.jpg"
+        ],
+        "brand": "DARKSTAR",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Seventies Logo First Push",
+        "color": "Blue",
+        "price": 88.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b24.jpg"
+        ],
+        "brand": "ENJOI",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Eyota 7.75 Complete",
+        "color": "Blue",
+        "price": 109.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b25.jpg"
+        ],
+        "brand": "ELEMENT",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "G1 Stack 8.25 Complete Skateboard",
+        "color": "Blue",
+        "price": 121.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b26.jpg"
+        ],
+        "brand": "GLOBE",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "G1 Stack 8.0 Complete",
+        "color": "Blue",
+        "price": 121.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b27.jpg"
+        ],
+        "brand": "GLOBE",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    },
+    {
+        "featured": false,
+        "name": "Helical 7.375 Complete",
+        "color": "Blue",
+        "price": 119.95,
+        "type": "board_complete",
+        "sizes": [
+            7.75,
+            8,
+            8.25,
+            8.5
+        ],
+        "images": [
+            "b25.jpg"
+        ],
+        "brand": "ELEMENT",
+        "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+    }
+]

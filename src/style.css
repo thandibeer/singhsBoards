@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.products-container{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 24% 24% 24% 24%;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.products-container .box{
+    padding: 10px;
+    border-radius: 1rem;
+    box-shadow: 1px 4px 41px rgba(0, 0, 0, 0.1);
+    /* margin: 0.5rem; */
+}
+.products-container .box .box-img{
+    /* max-width: 250px; */
+    width: 100%;
+    height: 300px;
+}
+.products-container .box .box-img img{
+    width: 100%;
+    height:100%;
+    border-radius: 1rem;
+    object-fit: contain;
+    object-position: center;
+}
+
+.products-container .box:hover{
+    
+}
+.products-container .box h3{
+    font-weight: 500;
+}
+.products-container .box h2{
+    font-size: 1.1rem;
+    font-weight:600;
+    color: var(--main-color);
+    /* margin: 0.2rem 0 0.5rem; */
+}
+.deets{
+    max-width: 1400px;
+    width: 100%;
+    margin: 100px auto;
+    box-shadow: 0 0 5px #ccc;
+    
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 30px 0;
+}
+.details .big-img{
+    width: 500px;
+    min-width: 290px;
+    overflow: hidden;
+    margin: 25px;
+}
+.big-img img{
+    width: 100%;
+    height: 100%;
+    max-height: 400px;
+    display: block;
+    object-fit: contain;
+}
+.details .box{
+   width: 500px;
+    min-width: 290px;
+    margin: 25px;
+}
+.box .row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.box .row h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.box .row span{
+    color: crimson;
+}
+.box .sizes button{
+    width: 40px;
+    height: 30px;
+    border: 1px solid #333;
+    outline: none;
+    margin-right: 5px;
+    cursor: pointer;
+
+}
+
+.box p{
+    line-height: 1.5;
+    margin: 15px 0;
+}
+
+ .cart{
+    background-color: #333;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px 25px;
+    margin-top: 15px;
+}
+.carousel-control-next-icon:after
+{
+  color: lightgray;
+}
+
+.carousel-control-prev-icon:after {
+  color: lightgray;
+}
+
+footer{
+    bottom: 0;
+}
+.buttons button{
+    width: 95%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    margin: 4px;
+}
+
+.buttons button:hover{
+    background-color: maroon;
+    color: white;
+}
+#sizeBtn{
+    border: none;
+}
+#sizeBtn:focus{
+    border: 1px solid maroon;
+}
+
+#sizeLbl{
+    font-size: 0.8rem;
+}
+
+#addForm input{
+    font-size: 0.9rem;
+}
+#navBrand{
+    font-size: '0.8rem';
+}

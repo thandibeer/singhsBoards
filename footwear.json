@@ -1,0 +1,522 @@
+[{
+    "featured":true,
+    "name": "Vans x One-Piece Wanted Skate Sk8-Hi",
+    "color": "Blue",
+    "price": 114.95,
+    "type": "shoes",
+    "sizes":[7,8,8.5,9,9.5,10,10.5,11],
+    "images":
+    ["sh2_1.jpg","sh2_2.jpg","sh2_3.jpg"],
+    "brand":"VANS"
+,
+"description":"All New Skate Classics: Built Extra Tough on the Inside For Skateboarding Completely redesigned for modern skateboarding, the all-new Skate Classics collection delivers more of what skateboarders need to enable maximum progression. The repositioned DURACAP™ reinforced underlays and fully redesigned uppers, combined with a new two-part foxing tape that features a deeper knurl pattern on the toe, make the new Skate Old Skool durable enough to withstand daily skateboarding abuse."        
+},
+{
+    "featured": true,
+    "name": "DC x Venture Manteca 4 Off White",
+    "color": "Blue",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh3_1.jpg",
+        "sh3_2.jpg"
+    ],
+    "brand": "DC",
+    "description": "The remastered Manteca 4 S features a wealth of skate-focused upgrades to the classic vulc design. The SUPER SUEDE™ upper and SUPER RUBBER™ outsole last longer and stand up to griptape wear. On the inside, we added the eco-friendly impact protection of our IMPACT-ALG™ insoles made from algae foam."
+},
+{
+    "featured": true,
+    "name": "Vans x One-Piece Wanted Skate Old Skool",
+    "color": "Blue",
+    "price": 109.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh1_1.jpg",
+        "sh1_2.jpg",
+        "sh1_3.jpg"
+    ],
+    "brand": "VANS",
+    "description": "All New Skate Classics: Built Extra Tough on the Inside For Skateboarding Completely redesigned for modern skateboarding, the all-new Skate Classics collection delivers more of what skateboarders need to enable maximum progression. The repositioned DURACAP™ reinforced underlays and fully redesigned uppers, combined with a new two-part foxing tape that features a deeper knurl pattern on the toe, make the new Skate Old Skool durable enough to withstand daily skateboarding abuse."
+},
+{
+    "featured": true,
+    "name": "Vans Skate Half Cab",
+    "color": "Blue",
+    "price": 110.99,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "shoe3.jpg"
+    ],
+    "brand": "VANS",
+    "description": "A familiar favorite is reborn in the Nike BRSB. Almost every detail, from the color blocking to the sawtooth pattern on the sole, was inspired by the original Nike Cortez. But, because this shoe is built for skate, we added extras where they're needed—like the rubber from the sole that wraps up and over the heel and toe for durability. It also wraps the sides, adding an extra layer to high-use areas, like the ollie zone."
+},
+{
+    "featured": true,
+    "name": "Jack Purcell Pro Mid ",
+    "color": "Blue",
+    "price": 99.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh5_1.jpg",
+        "sh5_2.jpg"
+    ],
+    "brand": "CONVERSE",
+    "description": "PUSH THE LIMITS. This edition of the Jack Purcell comes ready to skate. Durable, rubber-backed suede stands up against wear and tear, while supportive cushioning helps to absorb impact"
+},
+{
+    "featured": false,
+    "name": "Ct As Pro High Shoes",
+    "color": "Black",
+    "price": 99.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh6_1.jpg",
+        "sh6_2.jpg"
+    ],
+    "brand": "CONVERSE",
+    "description": "THE STREETS ARE CALLING. The CONS CTAS Pro sneaker combines the best of design and function, re-tooling the 1917 original with skate-ready elements. With a moulded PU sockliner for cushioning and impact absorption, a traction rubber outsole for better boardfeel and rubber-backed suede for durability."
+},
+{
+    "featured": false,
+    "name": "One Star Pro Ox Shoes",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh7_1.jpg",
+        "sh7_2.jpg"
+    ],
+    "brand": "CONVERSE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "One Star Pro Ox Shoes - White",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh8_1.jpg",
+        "sh8_2.jpg"
+    ],
+    "brand": "CONVERSE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+}
+
+,
+{
+    "featured": false,
+    "name": "306 Foy Grey Day X Jamie Foy Shoes",
+    "color": "Black",
+    "price": 124.95,
+    "type": "shoes",
+    "sizes": [
+        8,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh9.jpg"
+    ],
+    "brand": "VANS",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Forum Mid Cloud White/Grey",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8.5,
+        9,
+        10,
+        11
+    ],
+    "images": [
+        "sh10.jpg"
+    ],
+    "brand": "ADIDAS",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Puig Indoor Black/White",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh11.jpg"
+    ],
+    "brand": "ADIDAS",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "DC x Marvel Deadpool Manual Hi",
+    "color": "Black",
+    "price": 114.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        9.5,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh12.jpg"
+    ],
+    "brand": "DC",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Pure High-Top Water-Resistant",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        9,
+        9.5,
+        10,
+        11
+    ],
+    "images": [
+        "sh13.jpg"
+    ],
+    "brand": "DC",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Pure High-Top Water-Resistant Wheat",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh14.jpg"
+    ],
+    "brand": "DC",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Numeric 213 Tan",
+    "color": "Black",
+    "price": 99.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        11
+    ],
+    "images": [
+        "sh15.jpg"
+    ],
+    "brand": "VANS",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Numeric 272 White/Navy",
+    "color": "Black",
+    "price": 104.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        9,
+        11
+    ],
+    "images": [
+        "sh16.jpg"
+    ],
+    "brand": "NEW BALANCE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Numeric 306 Jamie Foy White",
+    "color": "Black",
+    "price": 122.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        10,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh17.jpg"
+    ],
+    "brand": "NEW BALANCE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Court Graffik White",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        8.5,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh18.jpg"
+    ],
+    "brand": "DC",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "VM003 Canvas Hi Black",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        8,
+        8.5,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh19.jpg"
+    ],
+    "brand": "LAST RESORT",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "440-H x Jake Darwen",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        9.5,
+        10,
+        11
+    ],
+    "images": [
+        "sh20.jpg"
+    ],
+    "brand": "NEW BALANCE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Tyshawn Low",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        8,
+        8.5,
+        9,
+        9.5,
+        11
+    ],
+    "images": [
+        "sh21.jpg"
+    ],
+    "brand": "ADIDAS",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "425 Black/Gum",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        8,
+        8.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh22.jpg"
+    ],
+    "brand": "NEW BALANCE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "808 Tiago Black/Red",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        9,
+        9.5,
+        10,
+        10.5
+    ],
+    "images": [
+        "sh23.jpg"
+    ],
+    "brand": "NEW BALANCE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Wayvee Athletic",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh25.jpg"
+    ],
+    "brand": "NEW BALANCE",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Metric S Black/Red",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh24.jpg"
+    ],
+    "brand": "DC",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+},
+{
+    "featured": false,
+    "name": "Metric S Black/Red",
+    "color": "Black",
+    "price": 94.95,
+    "type": "shoes",
+    "sizes": [
+        7,
+        9,
+        9.5,
+        10.5,
+        11
+    ],
+    "images": [
+        "sh26.jpg"
+    ],
+    "brand": "DC",
+    "description": "MADE FOR SKATEBOARDING. Suede One Star sneakers, just like the OG model - but this time, rubber-backed for added durability. We've also thrown in an extra-cushy insole to absorb impact and CONS traction rubber for better board feel."
+}
+]
